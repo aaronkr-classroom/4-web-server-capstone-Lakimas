@@ -12,7 +12,7 @@ const routes = {
             routes[req.method][req.url](req,res);
         }catch(e){
             res.WriteHead(httpStatus.OK, ContentTypes.httpStatus);
-            util.getFile("views/error.html", res);
+            utils.getFile("views/error.html", res);
         }
     };
 

@@ -4,11 +4,11 @@ const contentTypes = require('./content-types');
 const utils = require('./utils');
 
 //필요 모듈 임포트
-const port = 3000;
-    http = require('http')
-    httpStatus = require('http-status-codes');
-    router = require('./router');
-    conternTypes = require('./content-types');
+const port = 3000,
+    http = require('http'),
+    httpStatus = require('http-status-codes'),
+    router = require('./router'),
+    conternTypes = require('./content-types'),
     utils = require('./utils');
 
 //GET라우트
