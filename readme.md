@@ -1,8 +1,8 @@
-# 캡스톤 프로젝트 1
+# 캡스톤 프로젝트 1https://raw.githubusercontent.com/ut-nodejs/ut-nodejs.github.io/master/img/in-slides/capstone-1/index.png
 
 ## 첫 번째 웹 애플리케이션 만들기
 
-![example-website](https://raw.githubusercontent.com/ut-nodejs/ut-nodejs.github.io/master/img/in-slides/capstone-1/index.png)
+![example-website]()
 
 **118-129페이지**의 지침에 따라 첫 번째 Node.js 웹 서버와 웹사이트를 만드십시오. 요구 사항 및 첫 번째 단계는 다음과 같습니다.
 
